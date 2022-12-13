@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/focacci/HYO-Summer2020-Orientation#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.4"
   }
 }
